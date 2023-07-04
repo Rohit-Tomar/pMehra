@@ -1,0 +1,12 @@
+/* Styles for wrapping the search box */
+
+.search-bar {
+  width: 50%;
+  margin: 50px auto;
+}
+
+/* Bootstrap 4 text input with search icon */
+
+.btn .clicked {
+  background-color: #169bd7 !important;
+}
